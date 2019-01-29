@@ -9,10 +9,13 @@ Your subject for today's test is MIT App Inventor.
 
 ![Line Tracer](images/7.png "Line Tracer")
 
-For your Project, please load LineTracer_template.aia (can be find above) on MIT App Inventor. Here, there is a pre-loaded template of a drawing app, with buttons and colors to pick, and empty code. Your task is to code the app for it to work.
+For your Project, please load LineTracer_template.aia on MIT App Inventor. Here, there is a pre-loaded template of a drawing app, with buttons and colors to pick, and empty code. Your task is to code the app for it to work.
 
 * When the direction buttons are clicked, move the ball to the corresponding direction by 10 pixels
 * When the color buttons are clicked, switch the ball's color to the selected color
+
+#### **Download the file here**
+https://tinyurl.com/newMilestoneSD2-6-1
 
 ## Debug
 
@@ -22,7 +25,10 @@ For your Project, please load LineTracer_template.aia (can be find above) on MIT
 
 Upon abandoning Earth, mankind begin a conquest to find another planet to start anew colony. However, they must face an ongoing attack against aliens that blocks your way. Human's spaceship must not let alien spaceship pass our ship, by shooting laser toward them.
 
-For your Debug test, please load SpaceInvaders.aia (can be find above) on MIT App Inventor. Here, there are missing parts of the code that must be fixed in order for the game to work.
+For your Debug test, please load SpaceInvaders.aia on MIT App Inventor. Here, there are missing parts of the code that must be fixed in order for the game to work.
+
+#### **Download the file here**
+https://tinyurl.com/newMilestoneSD2-6-2
 
 #### At Screen1.Initialize
 
@@ -60,5 +66,6 @@ For your Debug test, please load SpaceInvaders.aia (can be find above) on MIT Ap
 * If the ammo collide with an enemy, make the ammo invisible, and reset the **x position to 0**
 
 **DO NOT DELETE OR EDIT COLLAPSED BLOCKS, DOING SO WILL CAUSE THE GAME TO NOT WORK**
+
 
 ## GOOD LUCK
